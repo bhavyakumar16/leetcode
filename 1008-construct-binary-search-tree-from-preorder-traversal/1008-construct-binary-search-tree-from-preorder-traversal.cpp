@@ -11,67 +11,26 @@
  */
 class Solution {
 public:
+TreeNode *built(vector<int>&arr,int &i,int &bound){
+    if(i==arr.size() || arr[i]>bound) return NULL;
 
-    TreeNode* bst(vector<int>& preorder,
-                  int preStart, int preEnd,
-                  vector<int>& inorder,
-                  int inStart, int inEnd,
-                  map<int,int>& inmap) {
+    int value = arr[i];
+    i++;
+    TreeNode *root = new TreeNode(value);
+    root->left=built(arr,i,root->val);
+    root->right=built(arr,i,bound);
 
-        // No elements
-        if (preStart > preEnd || inStart > inEnd)
-            return NULL;
+    return root;
+}
 
-        // First element of preorder is root
-        TreeNode* root = new TreeNode(preorder[preStart]);
+    
 
-        // Find root in inorder
-        int inRoot = inmap[root->val];
+    TreeNode* bstFromPreorder(vector<int>& arr) {
+        int i=0;
+        int bound=INT_MAX;
+        return built(arr,i,bound);
 
-        // Number of elements in left subtree
-        int numsLeft = inRoot - inStart;
 
-        // Build left subtree
-        root->left = bst(preorder,
-                         preStart + 1,
-                         preStart + numsLeft,
-                         inorder,
-                         inStart,
-                         inRoot - 1,
-                         inmap);
-
-        // Build right subtree
-        root->right = bst(preorder,
-                          preStart + numsLeft + 1,
-                          preEnd,
-                          inorder,
-                          inRoot + 1,
-                          inEnd,
-                          inmap);
-
-        return root;
-    }
-
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
-
-        // Create inorder by sorting preorder
-        vector<int> inorder(preorder);
-        sort(inorder.begin(), inorder.end());
-
-        // Store inorder positions
-        map<int,int> inmap;
-
-        for(int i = 0; i < inorder.size(); i++) {
-            inmap[inorder[i]] = i;
-        }
-
-        // Build tree
-        return bst(preorder,
-                   0,
-                   preorder.size() - 1,
-                   inorder,
-                   0,
-                   inorder.size() - 1,
-                   inmap);
+       
     }
 };
