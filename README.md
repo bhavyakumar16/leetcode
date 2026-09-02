@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bhavyakumar16/leetcode/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavyakumar16/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/bhavyakumar16/leetcode/tree/master/0283-move-zeroes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyakumar16/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavyakumar16/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/bhavyakumar16/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
