@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavyakumar16/leetcode/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/bhavyakumar16/leetcode/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavyakumar16/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/bhavyakumar16/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/bhavyakumar16/leetcode/tree/master/0455-assign-cookies) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhavyakumar16/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bhavyakumar16/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/bhavyakumar16/leetcode/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavyakumar16/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bhavyakumar16/leetcode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/bhavyakumar16/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
