@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/bhavyakumar16/leetcode/tree/master/0860-lemonade-change) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyakumar16/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyakumar16/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bhavyakumar16/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavyakumar16/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhavyakumar16/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhavyakumar16/leetcode/tree/master/0001-two-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavyakumar16/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bhavyakumar16/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/bhavyakumar16/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/bhavyakumar16/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bhavyakumar16/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
