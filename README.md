@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bhavyakumar16/leetcode/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavyakumar16/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/bhavyakumar16/leetcode/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/bhavyakumar16/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhavyakumar16/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/bhavyakumar16/leetcode/tree/master/0860-lemonade-change) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyakumar16/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -105,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/bhavyakumar16/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/bhavyakumar16/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhavyakumar16/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/bhavyakumar16/leetcode/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavyakumar16/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/bhavyakumar16/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhavyakumar16/leetcode/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyakumar16/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -146,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/bhavyakumar16/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/bhavyakumar16/leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
