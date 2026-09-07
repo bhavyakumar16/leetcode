@@ -1,33 +1,27 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        int n = intervals.size();
+    vector<vector<int>> merge(vector<vector<int>>& arr) {
+        int n = arr.size();
+        vector<vector<int>>ans;
+        sort(arr.begin(),arr.end());
 
-        sort(intervals.begin(), intervals.end());
+        int lastend = arr[0][1];
+        int laststart=arr[0][0];
 
-        vector<vector<int>> ans;
-
-        int laststart = intervals[0][0];
-        int lastend = intervals[0][1];
-
-        for(int i = 1; i < n; i++) {
-
-            if(intervals[i][0] <= lastend) {
-                // overlap
-                lastend = max(lastend, intervals[i][1]);
+        for(int i=1;i<n;i++){
+            if(arr[i][0]<=lastend){
+                lastend = max(lastend,arr[i][1]);
             }
-            else {
-                // no overlap
-                ans.push_back({laststart, lastend});
+            else{
+                ans.push_back({laststart,lastend});
+                laststart=arr[i][0];
+                lastend=arr[i][1];
 
-                laststart = intervals[i][0];
-                lastend = intervals[i][1];
             }
+
         }
-
-        // add the last merged interval
-        ans.push_back({laststart, lastend});
-
+        ans.push_back({laststart,lastend});
         return ans;
+        
     }
 };
