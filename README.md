@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhavyakumar16/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bhavyakumar16/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavyakumar16/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/bhavyakumar16/leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bhavyakumar16/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0844-backspace-string-compare](https://github.com/bhavyakumar16/leetcode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyakumar16/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhavyakumar16/leetcode/tree/master/0049-group-anagrams) |
 | [0692-top-k-frequent-words](https://github.com/bhavyakumar16/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/bhavyakumar16/leetcode/tree/master/0791-custom-sort-string) |
+| [0844-backspace-string-compare](https://github.com/bhavyakumar16/leetcode/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhavyakumar16/leetcode/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/bhavyakumar16/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
