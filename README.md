@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhavyakumar16/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bhavyakumar16/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/bhavyakumar16/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhavyakumar16/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhavyakumar16/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyakumar16/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bhavyakumar16/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhavyakumar16/leetcode/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavyakumar16/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/bhavyakumar16/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/bhavyakumar16/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/bhavyakumar16/leetcode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/bhavyakumar16/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/bhavyakumar16/leetcode/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhavyakumar16/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/bhavyakumar16/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavyakumar16/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -208,9 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/bhavyakumar16/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bhavyakumar16/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhavyakumar16/leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bhavyakumar16/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
