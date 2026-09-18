@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bhavyakumar16/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/bhavyakumar16/leetcode/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/bhavyakumar16/leetcode/tree/master/0844-backspace-string-compare) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bhavyakumar16/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
 |  |
 | ------- |
@@ -225,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bhavyakumar16/leetcode/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bhavyakumar16/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bhavyakumar16/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
