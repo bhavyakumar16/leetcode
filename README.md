@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/bhavyakumar16/leetcode/tree/master/0860-lemonade-change) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyakumar16/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyakumar16/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/bhavyakumar16/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhavyakumar16/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bhavyakumar16/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavyakumar16/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/bhavyakumar16/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhavyakumar16/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Quicksort
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhavyakumar16/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/bhavyakumar16/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
