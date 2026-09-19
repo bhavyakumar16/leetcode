@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bhavyakumar16/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0860-lemonade-change](https://github.com/bhavyakumar16/leetcode/tree/master/0860-lemonade-change) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyakumar16/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bhavyakumar16/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyakumar16/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/bhavyakumar16/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhavyakumar16/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
