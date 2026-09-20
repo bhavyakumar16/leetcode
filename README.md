@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/bhavyakumar16/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0844-backspace-string-compare](https://github.com/bhavyakumar16/leetcode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyakumar16/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bhavyakumar16/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bhavyakumar16/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/bhavyakumar16/leetcode/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/bhavyakumar16/leetcode/tree/master/0844-backspace-string-compare) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bhavyakumar16/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/bhavyakumar16/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bhavyakumar16/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
