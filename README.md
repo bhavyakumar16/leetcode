@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/bhavyakumar16/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/bhavyakumar16/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0860-lemonade-change](https://github.com/bhavyakumar16/leetcode/tree/master/0860-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/bhavyakumar16/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyakumar16/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bhavyakumar16/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavyakumar16/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavyakumar16/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/bhavyakumar16/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/bhavyakumar16/leetcode/tree/master/0791-custom-sort-string) |
+| [0904-fruit-into-baskets](https://github.com/bhavyakumar16/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bhavyakumar16/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
@@ -257,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bhavyakumar16/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhavyakumar16/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/bhavyakumar16/leetcode/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/bhavyakumar16/leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
