@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bhavyakumar16/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhavyakumar16/leetcode/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavyakumar16/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/bhavyakumar16/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/bhavyakumar16/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/bhavyakumar16/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhavyakumar16/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bhavyakumar16/leetcode/tree/master/0136-single-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bhavyakumar16/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
