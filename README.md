@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/bhavyakumar16/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhavyakumar16/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyakumar16/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/bhavyakumar16/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Tree
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/bhavyakumar16/leetcode/tree/master/0844-backspace-string-compare) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bhavyakumar16/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/bhavyakumar16/leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/bhavyakumar16/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bhavyakumar16/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bhavyakumar16/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/bhavyakumar16/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/bhavyakumar16/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/bhavyakumar16/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Simulation
 |  |
 | ------- |
@@ -262,4 +265,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhavyakumar16/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/bhavyakumar16/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/bhavyakumar16/leetcode/tree/master/0904-fruit-into-baskets) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/bhavyakumar16/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
