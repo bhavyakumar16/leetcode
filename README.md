@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhavyakumar16/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bhavyakumar16/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavyakumar16/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhavyakumar16/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhavyakumar16/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/bhavyakumar16/leetcode/tree/master/0189-rotate-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/bhavyakumar16/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhavyakumar16/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhavyakumar16/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Quicksort
 |  |
